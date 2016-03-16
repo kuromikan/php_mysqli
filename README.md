@@ -1,7 +1,9 @@
 #php mysqli
 
 因應mysql_connect用法將在php未來的版本中被移除
+
 在這邊提供mysqli的連線方法
+
 以及基本查詢
 
 |檔名                                        |說明                                         |
