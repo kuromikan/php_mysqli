@@ -8,4 +8,5 @@ while ($row = $result->fetch_row())
 	print_r($row);
 	echo "<br>";
 }
+$mysqli->close();
 ?>
